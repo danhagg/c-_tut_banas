@@ -1,0 +1,11 @@
+/Users/danielhaggerty/Documents/csharp_banas/b/b/bin/Debug/netcoreapp2.0/b.deps.json
+/Users/danielhaggerty/Documents/csharp_banas/b/b/bin/Debug/netcoreapp2.0/b.runtimeconfig.json
+/Users/danielhaggerty/Documents/csharp_banas/b/b/bin/Debug/netcoreapp2.0/b.runtimeconfig.dev.json
+/Users/danielhaggerty/Documents/csharp_banas/b/b/bin/Debug/netcoreapp2.0/b.dll
+/Users/danielhaggerty/Documents/csharp_banas/b/b/bin/Debug/netcoreapp2.0/b.pdb
+/Users/danielhaggerty/Documents/csharp_banas/b/b/obj/Debug/netcoreapp2.0/b.csprojResolveAssemblyReference.cache
+/Users/danielhaggerty/Documents/csharp_banas/b/b/obj/Debug/netcoreapp2.0/b.csproj.CoreCompileInputs.cache
+/Users/danielhaggerty/Documents/csharp_banas/b/b/obj/Debug/netcoreapp2.0/b.AssemblyInfoInputs.cache
+/Users/danielhaggerty/Documents/csharp_banas/b/b/obj/Debug/netcoreapp2.0/b.AssemblyInfo.cs
+/Users/danielhaggerty/Documents/csharp_banas/b/b/obj/Debug/netcoreapp2.0/b.dll
+/Users/danielhaggerty/Documents/csharp_banas/b/b/obj/Debug/netcoreapp2.0/b.pdb
