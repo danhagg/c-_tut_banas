@@ -1,1 +1,0 @@
-/Users/danielhaggerty/Documents/csharp_banas/banas/banas/obj/x86/Debug/banas.csproj.CoreCompileInputs.cache
