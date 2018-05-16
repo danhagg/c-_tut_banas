@@ -1,0 +1,11 @@
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/bin/Debug/netcoreapp2.0/dataTypes.deps.json
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/bin/Debug/netcoreapp2.0/dataTypes.runtimeconfig.json
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/bin/Debug/netcoreapp2.0/dataTypes.runtimeconfig.dev.json
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/bin/Debug/netcoreapp2.0/dataTypes.dll
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/bin/Debug/netcoreapp2.0/dataTypes.pdb
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/obj/Debug/netcoreapp2.0/dataTypes.csprojResolveAssemblyReference.cache
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/obj/Debug/netcoreapp2.0/dataTypes.csproj.CoreCompileInputs.cache
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/obj/Debug/netcoreapp2.0/dataTypes.AssemblyInfoInputs.cache
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/obj/Debug/netcoreapp2.0/dataTypes.AssemblyInfo.cs
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/obj/Debug/netcoreapp2.0/dataTypes.dll
+/Users/danielhaggerty/Documents/csharp_banas/dataTypes/dataTypes/obj/Debug/netcoreapp2.0/dataTypes.pdb

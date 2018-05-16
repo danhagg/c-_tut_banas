@@ -1,0 +1,11 @@
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/bin/Debug/netcoreapp2.0/loops.deps.json
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/bin/Debug/netcoreapp2.0/loops.runtimeconfig.json
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/bin/Debug/netcoreapp2.0/loops.runtimeconfig.dev.json
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/bin/Debug/netcoreapp2.0/loops.dll
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/bin/Debug/netcoreapp2.0/loops.pdb
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/obj/Debug/netcoreapp2.0/loops.csprojResolveAssemblyReference.cache
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/obj/Debug/netcoreapp2.0/loops.csproj.CoreCompileInputs.cache
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/obj/Debug/netcoreapp2.0/loops.AssemblyInfoInputs.cache
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/obj/Debug/netcoreapp2.0/loops.AssemblyInfo.cs
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/obj/Debug/netcoreapp2.0/loops.dll
+/Users/danielhaggerty/Documents/csharp_banas/loops/loops/obj/Debug/netcoreapp2.0/loops.pdb
